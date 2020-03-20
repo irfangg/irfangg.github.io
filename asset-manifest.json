@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/irfangg/irfangg.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/irfangg/irfangg.github.io/static/js/main.d2de4850.chunk.js",
+    "main.js.map": "/irfangg/irfangg.github.io/static/js/main.d2de4850.chunk.js.map",
+    "runtime-main.js": "/irfangg/irfangg.github.io/static/js/runtime-main.52a721ac.js",
+    "runtime-main.js.map": "/irfangg/irfangg.github.io/static/js/runtime-main.52a721ac.js.map",
+    "static/js/2.f934bd9d.chunk.js": "/irfangg/irfangg.github.io/static/js/2.f934bd9d.chunk.js",
+    "static/js/2.f934bd9d.chunk.js.map": "/irfangg/irfangg.github.io/static/js/2.f934bd9d.chunk.js.map",
+    "index.html": "/irfangg/irfangg.github.io/index.html",
+    "precache-manifest.b40b8c16cdf3da14a38c4646946d1719.js": "/irfangg/irfangg.github.io/precache-manifest.b40b8c16cdf3da14a38c4646946d1719.js",
+    "service-worker.js": "/irfangg/irfangg.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/irfangg/irfangg.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f934bd9d.chunk.js.LICENSE.txt": "/irfangg/irfangg.github.io/static/js/2.f934bd9d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/irfangg/irfangg.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52a721ac.js",
+    "static/js/2.f934bd9d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d2de4850.chunk.js"
+  ]
+}
